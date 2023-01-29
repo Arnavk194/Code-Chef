@@ -1,2 +1,2 @@
-# Level 1(Beg)
+# Code-Chef
 https://www.codechef.com/users/arnav944
